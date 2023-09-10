@@ -1,8 +1,11 @@
 # GPT-Accuracy-Research
-- Need to extract Customer Experience from following websites
-     -Reddit
-     -Quora
-     -Wired
-     -Youtube
 
-- Classify these comments as positive and negative
+### We have data from following sources
+     *Youtube
+     *Reddit
+
+### What all can be done with this data
+1. Classify these comments as positive and negative
+2. See for the most occured words
+3. How often people use the names of competition apps
+4. Impact of those comments
