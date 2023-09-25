@@ -9,3 +9,4 @@
 2. See for the most occured words
 3. How often people use the names of competition apps
 4. Impact of those comments
+5. Whether a person can switch to other competitior apps
