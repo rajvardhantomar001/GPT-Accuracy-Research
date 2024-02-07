@@ -1,8 +1,9 @@
 import pandas as pd
 import openai
+from secret import openai_api
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = openai_api
 
 # Initialize the OpenAI API client
 openai.api_key = api_key
