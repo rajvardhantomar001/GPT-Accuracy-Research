@@ -6,3 +6,6 @@ eIGc4dlNt2ApFT-IoqaufA
 
 youtube
 AIzaSyBgbUQ9jDaI5Icglxs9eJLdf9VKJ3BG0C4
+
+openai
+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

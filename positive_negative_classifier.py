@@ -2,7 +2,7 @@ import pandas as pd
 import openai
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = "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"
 
 # Initialize the OpenAI API client
 openai.api_key = api_key
@@ -19,7 +19,7 @@ def positive_negative_classifier(comment):
 
         # Extract the label from the API response
         label = response.choices[0].text.strip()
-
+        print(label)
         # Determine if the comment is positive or negative
         if label.lower() == "positive":
             return "Positive"
